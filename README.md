@@ -1,3 +1,14 @@
+
+### Ethernet Over USB
+
+**Nome do Protocolo:** Ethernet Over USB
+
+**O que é:** Ethernet over USB (EoUSB) é um protocolo de comunicação que permite a transmissão de dados Ethernet através de conexões USB. Em sua maioria, utiliza-se do protocolo CDC - ECM para transmitir os dados. Funciona na camada 2 do modelo OSI. Os dados são encapsulados em pacotes USB e o receptor desencapsula e trata como pacotes Ethernet normais vindos de uma rede local.
+
+
+**Atividade Prática:** 
+A atividade prática consiste em fazer seu aparelho celular transmitir sinais da sua internet móvel para outro dispositivo como se fosse uma rede ethernet. 
+
 ### DCCP
 
 **Nome do Protocolo:** Datagram Congestion Control Protocol (DCCP)
